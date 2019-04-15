@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+/data/archives/CRS 2017 data.txt
+*.csv
+*.ods
+/cache/
